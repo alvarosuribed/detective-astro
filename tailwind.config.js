@@ -12,6 +12,8 @@ export default {
         accent: 'var(--aw-color-accent)',
         default: 'var(--aw-color-text-default)',
         muted: 'var(--aw-color-text-muted)',
+        brandNight: '#0D131E', // Negro con matiz azul
+        brandEdge: '#2B3B56',  // Azul más claro para detalles/contornos
       },
       fontFamily: {
         sans: ['var(--aw-font-sans, ui-sans-serif)', ...defaultTheme.fontFamily.sans],
